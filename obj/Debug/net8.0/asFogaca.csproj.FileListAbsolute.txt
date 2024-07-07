@@ -1,0 +1,14 @@
+C:\lucasFoguete\asFogaca\bin\Debug\net8.0\asFogaca.exe
+C:\lucasFoguete\asFogaca\bin\Debug\net8.0\asFogaca.deps.json
+C:\lucasFoguete\asFogaca\bin\Debug\net8.0\asFogaca.runtimeconfig.json
+C:\lucasFoguete\asFogaca\bin\Debug\net8.0\asFogaca.dll
+C:\lucasFoguete\asFogaca\bin\Debug\net8.0\asFogaca.pdb
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.AssemblyInfoInputs.cache
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.AssemblyInfo.cs
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.csproj.CoreCompileInputs.cache
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.dll
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\refint\asFogaca.dll
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.pdb
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\asFogaca.genruntimeconfig.cache
+C:\lucasFoguete\asFogaca\obj\Debug\net8.0\ref\asFogaca.dll
